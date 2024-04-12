@@ -17,7 +17,7 @@ gspread==6.0.2
 gspread-dataframe==3.3.1
 gspread-formatting==1.1.2
 httplib2==0.22.0
-idna==3.6
+idna==3.7
 importlib-resources==6.1.1
 kiwisolver==1.4.5
 matplotlib==3.8.3
