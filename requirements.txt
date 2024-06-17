@@ -41,5 +41,5 @@ soupsieve==2.5
 StrEnum==0.4.15
 tzdata==2024.1
 uritemplate==4.1.1
-urllib3==2.2.1
+urllib3==2.2.2
 zipp==3.17.0
